@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+}
+p{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2rem;
+    border-radius: 2rem;
+    border: 5px solid rgb(160, 219, 242);
+}
